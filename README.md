@@ -22,7 +22,7 @@ Archive (~4.64 GB, includes Python, PyTorch with CUDA, and FFmpeg) is hosted on 
 **[huggingface.co/fortexe/Whisper-Note](https://huggingface.co/fortexe/Whisper-Note)** → `Whisper-Note-v0.1.1-Windows-x64-portable.7z`
 
 1. Download and extract the archive anywhere convenient.
-2. Run `WhisperNote.exe`.
+2. Run `Whisper Note.exe`.
 3. Pick a Whisper model (on first launch `tiny` downloads automatically to verify everything works) and a language.
 4. Record or load a file — via drag & drop or the file button.
 
