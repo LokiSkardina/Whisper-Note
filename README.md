@@ -18,7 +18,7 @@ The main advantage over similar tools isn't a long feature list — it's the cle
 
 ## Download & run
 
-Archive (~4.64 GB, includes Python, PyTorch with CUDA, and FFmpeg) is hosted on Hugging Face:
+Archive (~4.99 GB, includes Python, PyTorch with CUDA, and FFmpeg) is hosted on Hugging Face:
 **[huggingface.co/fortexe/Whisper-Note](https://huggingface.co/fortexe/Whisper-Note)** → `Whisper-Note-v0.1.1-Windows-x64-portable.7z`
 
 1. Download and extract the archive anywhere convenient.
