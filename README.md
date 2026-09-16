@@ -126,4 +126,4 @@ Time to transcribe a **10-minute (630s)** English audio file.
 
 Whisper (OpenAI) · PyQt6 · PyAudio / PyDub / FFmpeg · PyTorch (CUDA)
 
-**License:** MIT — free to use and modify.
+**License:** GPLv3 — free to use and modify.
