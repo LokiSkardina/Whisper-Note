@@ -2,7 +2,7 @@
 
 A simple utility for local audio-to-text transcription powered by OpenAI Whisper. No complex settings — unzip, run, pick a model, get your text.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![Whisper](https://img.shields.io/badge/AI-OpenAI%20Whisper-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Whisper](https://img.shields.io/badge/AI-OpenAI%20Whisper-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
 ---
 
